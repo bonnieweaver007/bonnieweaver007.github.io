@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Day 1 - Planning"
+title: "Day 0 - Planning"
 ---
 
 ### Project Focus
