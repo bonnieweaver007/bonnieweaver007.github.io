@@ -1,34 +1,31 @@
 ---
 layout: post
-title: "Day 0 - Planning"
+title: "Day 1 - Planning"
 ---
 
 ### Project Focus
 
-[What kind of project are you planning to build? Give it a working title and briefly describe what it is (e.g., a game, simulation, interactive story). What makes it interesting or challenging?]
+For my final project, I would like to create a game of Hangman. I plan on implementing a visual element so that the game feels more realistic and engaging for the user.
 
 ---
 
 ### Why This Project 
 
-[What drew you to this idea? How does it connect to something you’re interested in—whether in or outside of class? Why is this the right project for *you* to work on right *now*?]
+I love word games like the New York Times Connections and Spelling Bee, so I wanted to program a game that involves words and one that everyone knows. That led me to choose Hangman as the game I want to simulate.
 
 ---
 
 ### What I Want to Learn
 
-[What programming concepts do you want to strengthen through this project (e.g., functions, conditionals, loops, data structures)?  
-Beyond coding, what personal or creative skills are you hoping to build—like debugging, problem solving, design, or perseverance?]
-
+Through this project, I want to strengthen my understanding of for loops, while loops, and conditional statements, as well as my understanding of how to build modular functions that will work together to create a fully functioning game. I also want to strengthen my ability to debug problems and organize my code so that problems won't occur when it's tested against edge cases.
 
 
 ### My Approach 
 
-[How do you plan to structure your time over the next two weeks? What will you focus on first? What will you prioritize later?  
-What does “done enough” look like to you—and how will you decide when to stop polishing?]
+Over the next week, I plan to first focus on finishing the code for the text-based part of my Hangman game. After that, I will begin building graphics for the game, either by using strings and keyboard characters or by implementing a GUI. My game will be "done enough" when it doesn't have bugs, is fully functional, and has a visual element that represents and hangman gaining limbs.
 
 ---
 
 ### What's Next
 
-[What do you plan to tackle in the next stage of your project?]
+So far, I've created a function that picks a random word, a function that prints instructions, and a function that checks whether a user's inputted letter is a) a valid character and b) in the word. My next step is to create a function that keeps looping until the entire word is guessed. After that, I will build a function that prints string visuals (and if I have time I will look into tkinter).
