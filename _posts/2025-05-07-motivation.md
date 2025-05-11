@@ -22,7 +22,7 @@ Through this project, I want to strengthen my understanding of for loops, while 
 
 ### My Approach 
 
-Over the next week, I plan to first focus on finishing the code for the text-based part of my Hangman game. After that, I will begin building graphics for the game, either by using strings and keyboard characters or by implementing a GUI. My game will be "done enough" when it doesn't have bugs, is fully functional, and has a visual element that represents and hangman gaining limbs.
+Over the next week, I plan to first focus on finishing the code for the text-based part of my Hangman game. After that, I will begin building graphics for the game, either by using strings and keyboard characters or by implementing a GUI. My game will be "done enough" when it doesn't have bugs, is fully functional, and has a visual element that represents a hangman gaining limbs.
 
 ---
 
