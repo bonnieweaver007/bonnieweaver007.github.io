@@ -8,14 +8,14 @@ title: Final Chronicle
 
 ## About Me
 
-Hi, I'm [Your First Name], a student interested in [short blurb—e.g., game design, storytelling, building things, etc.].  
-This project was part of my final quest in [course name], and it reflects what I’ve learned about [theme—e.g., creativity, code, perseverance].
+Hi, I'm Bonnie, a student interested in word games and computer programming.  
+This project was part of my final quest in my computer programming class, and it reflects what I’ve learned about designing and building simple games.
 
 ## About My Project
 
-**Project Title:** *[Name it!]*  
-**Genre/Type:** [e.g., puzzle game, simulation, story-based quest]  
-**One-line pitch:** [“A game where you…” or “A project that lets you…”]
+**Project Title:** *Hangman*  
+**Genre/Type:** Game  
+**One-line pitch:** A word game where you try to guess the word in as few letters as possible!
 
 > Curious about what I’d do differently or recommend to others?  
 > Read my final thoughts here: [Final Tip & Takeaways](_posts/YYYY-MM-DD-final-tip.md)
