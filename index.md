@@ -18,7 +18,7 @@ This project was part of my final quest in my computer programming class, and it
 **One-line pitch:** A word game where you try to guess the word in as few letters as possible!
 
 > Curious about what I’d do differently or recommend to others?  
-> Read my final thoughts here: [Final Tip & Takeaways](_posts/YYYY-MM-DD-final-tip.md)
+> Read my final thoughts here: [Final Tip & Takeaways](_posts/2025-05-18-tip.md)
 
 🛠️ [Source Code (GitHub)](https://colab.research.google.com/drive/1LZ0nXJ1Cd4d0rvwwiL3vqQbaqA39uZjr?usp=sharing)  
 ⏯️ [Demo (if any)](demo.html)
