@@ -14,7 +14,6 @@ This project was part of my final quest in my computer programming class, and it
 ## About My Project
 
 **Project Title:** *Hangman*  
-**Genre/Type:** Game  
 **One-line pitch:** A word game where you try to guess the word in as few letters as possible!
 
 > Curious about what I’d do differently or recommend to others?  
