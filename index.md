@@ -20,7 +20,7 @@ This project was part of my final quest in my computer programming class, and it
 > Curious about what I’d do differently or recommend to others?  
 > Read my final thoughts here: [Final Tip & Takeaways](_posts/YYYY-MM-DD-final-tip.md)
 
-🛠️ [Source Code (GitHub)](https://github.com/YOURUSERNAME/YOURPROJECT)  
+🛠️ [Source Code (GitHub)](https://github.com/bonnieweaver007/files/hangman_game_v3.ipynb)  
 ⏯️ [Demo (if any)](demo.html)
 
 ## Dev Log
