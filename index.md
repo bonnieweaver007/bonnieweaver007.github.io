@@ -21,7 +21,6 @@ This project was part of my final quest in my computer programming class, and it
 > Read my final thoughts here: [Final Tip & Takeaways](_posts/2025-05-18-tip.md)
 
 🛠️ [Source Code (GitHub)](https://colab.research.google.com/drive/1LZ0nXJ1Cd4d0rvwwiL3vqQbaqA39uZjr?usp=sharing)  
-⏯️ [Demo (if any)](demo.html)
 
 ## Dev Log
 
