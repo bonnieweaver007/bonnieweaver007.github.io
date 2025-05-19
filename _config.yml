@@ -9,7 +9,7 @@ name: Bonnie
 description: Hangman Game
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: .images/IMG_0054.png
+avatar: ./images/IMG_0054.png
 
 #
 # Flags below are optional
