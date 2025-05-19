@@ -20,7 +20,6 @@ This project was part of my final quest in my computer programming class, and it
 > Curious about what I’d do differently or recommend to others?  
 > Read my final thoughts here: [Final Tip & Takeaways](_posts/2025-05-18-tip.md)
 
-🛠️ [Source Code (Google Colab)](files/hangman_game_v3.ipynb)
 🛠️ [Source Code (Google Colab)](https://colab.research.google.com/drive/1LZ0nXJ1Cd4d0rvwwiL3vqQbaqA39uZjr?usp=sharing)  
 
 ## Dev Log
