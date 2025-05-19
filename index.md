@@ -19,6 +19,8 @@ This project was part of my final quest in my computer programming class, and it
 
 > Curious about what I’d do differently or recommend to others?  
 > Read my final thoughts here: [Final Tip & Takeaways](_posts/2025-05-18-tip.md)
+>
+> **Before accessing my code, read [the README file in my repository](https://github.com/bonnieweaver007/bonnieweaver007.github.io/blob/main/files/README.md)
 
 🛠️ [Source Code (Google Colab)](https://colab.research.google.com/drive/1LZ0nXJ1Cd4d0rvwwiL3vqQbaqA39uZjr?usp=sharing)  
 
